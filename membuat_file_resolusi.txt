@@ -3,4 +3,3 @@ novita_repository
 - mengumpulkan tugas tepat waktu
 - memperhatikan materi yang disampaikan
 - menghadiri kelas tidak terlambat
-- berpartisipasi setiap ada tugas dalam bentuk kelompok
